@@ -17,4 +17,4 @@ sudo install minikube-linux-amd64 /usr/local/bin/minikube && rm minikube-linux-a
 * `kubectl apply --filename https://storage.googleapis.com/tekton-releases/pipeline/latest/release.yaml`
 * `kubectl apply --filename https://storage.googleapis.com/tekton-releases/dashboard/latest/release.yaml`
   * Use `kubectl proxy` to access the dashboard
-* `curl -LO https://github.com/kubernetes/minikube/releases/latest/download/minikube-linux-amd64
+* `curl -LO https://github.com/kubernetes/minikube/releases/latest/download/minikube-linux-amd64`
